@@ -1,0 +1,14 @@
+
+.main{
+    height: 100vh;
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+form{
+    /* background-color: white; */
+    display: block;
+    justify-content: right;
+}
